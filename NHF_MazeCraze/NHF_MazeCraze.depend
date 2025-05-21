@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1700845407 source:c:\users\aroland\onedrive\asztali gép\nhf_mazecraze\nhf_mazecraze\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	"debugmalloc.h"
+	"Maze.h"
+	"Jatek.h"
+	"maze_algoritmusok.h"
+	"Menu.h"
+
+1697648641 c:\users\aroland\onedrive\asztali gép\nhf_mazecraze\nhf_mazecraze\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1700853227 source:c:\users\aroland\onedrive\asztali gép\nhf_mazecraze\nhf_mazecraze\file_muveletek.c
+	"Maze.h"
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+
+1701002596 c:\users\aroland\onedrive\asztali gép\nhf_mazecraze\nhf_mazecraze\maze.h
+	<stdbool.h>
+	<ctype.h>
+	<stdlib.h>
+
+1700853233 source:c:\users\aroland\onedrive\asztali gép\nhf_mazecraze\nhf_mazecraze\jatek.c
+	"Maze.h"
+	<stdbool.h>
+	<conio.h>
+	<windows.h>
+
+1700853236 c:\users\aroland\onedrive\asztali gép\nhf_mazecraze\nhf_mazecraze\jatek.h
+	"Maze.h"
+	<stdbool.h>
+	<conio.h>
+	<windows.h>
+
+1700853242 c:\users\aroland\onedrive\asztali gép\nhf_mazecraze\nhf_mazecraze\maze_algoritmusok.h
+	<stdbool.h>
+	<time.h>
+	"Maze.h"
+
+1700853239 source:c:\users\aroland\onedrive\asztali gép\nhf_mazecraze\nhf_mazecraze\maze_algoritmusok.c
+	<stdbool.h>
+	<time.h>
+	"Maze.h"
+
+1700853355 source:c:\users\aroland\onedrive\asztali gép\nhf_mazecraze\nhf_mazecraze\maze.c
+	"Maze.h"
+	<stdlib.h>
+	<stdbool.h>
+	<ctype.h>
+
+1700853220 source:c:\users\aroland\onedrive\asztali gép\nhf_mazecraze\nhf_mazecraze\menu.c
+	<windows.h>
+	"Maze.h"
+	"maze_algoritmusok.h"
+	"Jatek.h"
+	"file_muveletek.h"
+	"Menu.h"
+
+1700853230 c:\users\aroland\onedrive\asztali gép\nhf_mazecraze\nhf_mazecraze\file_muveletek.h
+	"Maze.h"
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	<conio.h>
+
+1700853224 c:\users\aroland\onedrive\asztali gép\nhf_mazecraze\nhf_mazecraze\menu.h
+	<windows.h>
+	"Maze.h"
+	"maze_algoritmusok.h"
+	"Jatek.h"
+	"file_muveletek.h"
+
